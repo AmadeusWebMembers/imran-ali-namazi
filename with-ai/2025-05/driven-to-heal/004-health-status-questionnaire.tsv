@@ -1,0 +1,95 @@
+|is-engage
+|Prompt: `Imran`: 10 questions in EACH of the 8 aspects I listed.
+|About: Here is a questionnaire with 10 questions for each of the 8 facets of health, designed to help someone in distress take stock and provide a detailed picture for a peer supporter.
+|Description: Please answer the following questions honestly and openly. Your detailed responses will offer a thorough understanding of your current well-being across different areas.
+|Conclusion: This detailed questionnaire should provide a very comprehensive picture of the individual's current state across all eight facets of health, offering valuable insights for both the individual and their peer supporter. Remember to emphasize that honest and thoughtful responses are key to gaining the most benefit from this exercise.
+
+#section	content	section-intro
+
+Physical	1.  On a scale of 1 to 5 (1 being very poor, 5 being excellent), how would you rate your current overall physical health?	...
+Physical	2.  Describe your typical sleep routine. Are you experiencing any difficulties with falling asleep, staying asleep, or sleeping too much?
+Physical	3.  What is your current energy level throughout the day? Are you experiencing persistent fatigue or a lack of vitality?
+Physical	4.  Describe your current eating habits. Are you eating regular, nutritious meals, or have there been significant changes in your appetite or food choices?
+Physical	5.  Are you experiencing any physical pain, discomfort, or chronic health issues? If so, please describe the impact on your daily life.
+Physical	6.  How often do you engage in physical activity or exercise? What type and intensity?
+Physical	7.  Are you currently taking any medications or supplements? Are you adhering to prescribed regimens?
+Physical	8.  Have you noticed any recent changes in your weight? Was this intentional or unintentional?
+Physical	9.  How would you rate your body's ability to recover from physical exertion or illness?
+Physical	10. Are you engaging in any habits that negatively impact your physical health (e.g., excessive alcohol consumption, smoking)?
+
+Intellectual	1.  How would you rate your current level of mental clarity and focus on a scale of 1 to 5?	...
+Intellectual	2.  Are you finding it easy to concentrate on tasks and maintain attention?
+Intellectual	3.  Do you feel mentally stimulated and engaged in learning or new ideas?
+Intellectual	4.  Are you experiencing any difficulties with memory or cognitive processing?
+Intellectual	5.  How often do you engage in activities that challenge your mind (e.g., reading, puzzles, learning new skills)?
+Intellectual	6.  Do you feel satisfied with your opportunities for intellectual growth and development?
+Intellectual	7.  Are you experiencing any stress or anxiety related to intellectual demands (e.g., work, studies)?
+Intellectual	8.  Do you feel creative and able to express your ideas?
+Intellectual	9.  Are you able to problem-solve effectively and think critically?
+Intellectual	10. Do you feel a sense of curiosity and a desire to learn more about the world around you?
+
+Emotional	1.  On a scale of 1 to 5 (1 being very negative, 5 being very positive), how would you rate your overall emotional well-being recently?	...
+Emotional	2.  Describe the predominant emotions you have been experiencing over the past few days.
+Emotional	3.  How often do you experience feelings of sadness, anxiety, anger, or irritability?
+Emotional	4.  How well do you feel you understand your own emotions and their triggers?
+Emotional	5.  How effectively are you currently managing difficult or overwhelming emotions?
+Emotional	6.  Do you feel supported in expressing your emotions to others?
+Emotional	7.  How would you rate your level of self-esteem and self-acceptance?
+Emotional	8.  Are you experiencing any feelings of hopelessness or a lack of motivation?
+Emotional	9.  How resilient do you feel in the face of emotional challenges or setbacks?
+Emotional	10. Do you engage in activities that help you regulate and improve your mood?
+
+Spiritual	1.  Do you feel a sense of connection to something larger than yourself (e.g., nature, universe, belief system, community)? Please describe.	...
+Spiritual	2.  How important is your spiritual or belief system in providing you with comfort and guidance?
+Spiritual	3.  Are you currently finding meaning and purpose in your life?
+Spiritual	4.  Do you engage in any spiritual practices (e.g., meditation, prayer, mindfulness, attending religious services)? How often?
+Spiritual	5.  Do you feel a sense of inner peace or contentment?
+Spiritual	6.  Are your values and beliefs aligned with how you are currently living your life?
+Spiritual	7.  Do you feel connected to a community or group that shares your spiritual or philosophical views?
+Spiritual	8.  Have you experienced any recent events that have challenged your spiritual beliefs or sense of meaning?
+Spiritual	9.  Do you feel a sense of hope for the future?
+Spiritual	10. How does your spiritual or belief system help you cope with challenges and adversity?
+
+Professional	1.  How satisfied are you with your current work or primary activities (including studies, volunteering, homemaking)? On a scale of 1 to 5.	...
+Professional	2.  Do you feel a sense of purpose and fulfillment in your work or activities?
+Professional	3.  How would you describe your current level of work-related stress?
+Professional	4.  Do you feel supported and valued by your colleagues, supervisors, or those you work with?
+Professional	5.  Are you facing any significant challenges or conflicts in your professional environment?
+Professional	6.  Do you feel that your skills and talents are being utilized effectively?
+Professional	7.  Do you have a healthy work-life balance?
+Professional	8.  Do you see opportunities for growth and advancement in your current professional path?
+Professional	9.  Do you feel secure and stable in your current professional situation?
+Professional	10. How does your work or primary activity impact your overall well-being (positively or negatively)?
+
+Financial	1.  How would you rate your current level of financial security on a scale of 1 to 5?	...
+Financial	2.  Are you currently experiencing any significant financial stressors or worries? Please describe.
+Financial	3.  Do you feel in control of your finances (e.g., budgeting, saving, managing debt)?
+Financial	4.  Are you able to meet your basic financial needs comfortably?
+Financial	5.  Do you have any significant debts or financial obligations that are causing you stress?
+Financial	6.  Do you feel informed and knowledgeable about your financial situation?
+Financial	7.  Are you planning for your future financial needs (e.g., retirement, emergencies)?
+Financial	8.  Do you feel that your income is adequate for your needs and desired lifestyle?
+Financial	9.  Are there any financial habits you would like to change?
+Financial	10. How does your financial situation impact your overall sense of security and well-being?
+
+Social	1.  How satisfied are you with your current social connections and relationships? On a scale of 1 to 5.	...
+Social	2.  Do you feel a sense of belonging and connection with the people in your life?
+Social	3.  How often do you engage in meaningful social interactions?
+Social	4.  Do you feel you have a strong support network of friends, family, or community members?
+Social	5.  Are there any relationships in your life that are causing you significant stress or negativity?
+Social	6.  Do you feel comfortable reaching out to others for support when you need it?
+Social	7.  Are you actively involved in any social groups, clubs, or communities?
+Social	8.  Do you feel understood and accepted by the people around you?
+Social	9.  Are you able to set healthy boundaries in your relationships?
+Social	10. How does your social life contribute to your overall happiness and well-being?
+
+Environmental	1.  How would you rate the overall quality of your living environment on a scale of 1 to 5 (e.g., safety, cleanliness, comfort)?	...
+Environmental	2.  Do you feel safe and secure in your home and immediate surroundings?
+Environmental	3.  Is your living space comfortable and conducive to relaxation and well-being?
+Environmental	4.  Do you have access to green spaces or nature? How often do you connect with nature?
+Environmental	5.  How is the air and water quality in your environment? Do you have any concerns?
+Environmental	6.  Are you exposed to excessive noise or pollution in your daily life?
+Environmental	7.  Do you feel a sense of connection to your local community?
+Environmental	8.  Are there any aspects of your physical environment that are causing you stress or discomfort?
+Environmental	9.  Do you feel that your environment supports your overall health and well-being?
+Environmental	10. Are you taking any steps to create a more healthy and sustainable living environment?
