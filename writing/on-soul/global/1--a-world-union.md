@@ -39,7 +39,8 @@ Battle brings out the worst in us, and it's only love that can prevail... Shhhh,
 
 To my favourite Planeteer, I said
 
-"the Kingdom can be manifest now,
+```poem
+the Kingdom can be manifest now,
 If only people would listen to the voices inside
 Where buried deep is the transcendent soul
 And yet through it all, the sun does shine
@@ -51,7 +52,8 @@ Your's certainly is one such, so weave it well
 
 Into the Fabric of this world, Her need is dire.
 Enough of monarchs and fiefdoms which carve us,
-Let's dance to Mother Earth's delight"
+Let's dance to Mother Earth's delight
+```
 
 ---
 
